@@ -1,0 +1,11 @@
+A Unidade Curricular (UC) de Versionamento tem por objetivo desenvolver as capacidades básicas, bem como as capacidades socioemocionais requeridas para o controle de versões e de compartilhamento de projetos de TI.
+ 
+Esta UC possui 16 horas. 
+
+No decorrer de seus estudos, espera-se que seja desenvolvida as seguintes capacidades:
+ 
+- Desenvolver visão sistêmica de compartilhamento e evolução de códigos.
+
+- Reconhecer o sequencial de versões de códigos
+
+- Utilizar ferramentas de versionamento em projeto de TI.
