@@ -9,3 +9,9 @@ No decorrer de seus estudos, espera-se que seja desenvolvida as seguintes capaci
 - Reconhecer o sequencial de versões de códigos
 
 - Utilizar ferramentas de versionamento em projeto de TI.
+
+Aplicações utilizadas:
+
+-Git
+
+-Github
