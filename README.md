@@ -15,4 +15,4 @@ Seguem abaixo os principais comandos utilizados para gerenciar o versionamento d
 - git commit -m "Atualizando README.md" > salva no histórico do GIT
 - git push -u origin development > envia para o repositório remoto
 
-OBS.: Antes do passo 01, o GIT já havia sido iniciado através do comando git init, o repositório remoto tenha sido adicionado através do git remote add origin https://linkdorepo.
+OBS.: Antes do passo 01, o GIT já havia sido iniciado através do comando git init e o repositório remoto tinha sido adicionado ao local através do git remote add origin https://linkdorepo.
